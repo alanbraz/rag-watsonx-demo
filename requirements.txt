@@ -1,7 +1,9 @@
-langchain==0.1.11
-streamlit==1.31.1
-ibm_watson_machine_learning==1.0.349
-pypdf==4.1.0
-sentence-transformers==4.1.0
-chromadb==0.4.24
-watchdog==4.0.0
+langchain
+streamlit
+ibm_watson_machine_learning
+pypdf
+sentence-transformers
+chromadb
+watchdog
+langchain-ibm
+langchain-community
